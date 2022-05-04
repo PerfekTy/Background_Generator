@@ -1,2 +1,3 @@
 # BackgroundGenerator
-Simple background generator in .js :P
+Simple background generator in .js 
+ENJOY!
