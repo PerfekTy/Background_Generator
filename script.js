@@ -54,7 +54,7 @@ function randomGradient() {
     + color2.value
     + ")";
 
-    css1.textContent = body.style.background + ";";
+    css1.textContent = "Random gradient: " + body.style.background + ";";
 }
 
 
