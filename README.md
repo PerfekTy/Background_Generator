@@ -1,7 +1,7 @@
 # Background_Generator
 Simple background generator.
 
-Live --> https://perfekty.github.io/Background_Generator/
+Live --> https://perfekty.github.io/background-generator/
 
 Fell free to use :)
 
